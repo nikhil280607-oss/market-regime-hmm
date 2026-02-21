@@ -8,3 +8,8 @@ Identify hidden market states (bull/bear, volatility regimes) from time-series d
 
 ## Status
 Theory completed. Implementation in progress (April 2026).
+
+## Project Structure
+- notebooks/ : Jupyter notebooks
+- data/ : datasets
+- docs/ : project documentation
